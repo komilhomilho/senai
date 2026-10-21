@@ -1,0 +1,15 @@
+/home/suuh/senai/MeuProjeto/bin/Debug/net10.0/MeuProjeto
+/home/suuh/senai/MeuProjeto/bin/Debug/net10.0/MeuProjeto.deps.json
+/home/suuh/senai/MeuProjeto/bin/Debug/net10.0/MeuProjeto.runtimeconfig.json
+/home/suuh/senai/MeuProjeto/bin/Debug/net10.0/MeuProjeto.dll
+/home/suuh/senai/MeuProjeto/bin/Debug/net10.0/MeuProjeto.pdb
+/home/suuh/senai/MeuProjeto/obj/Debug/net10.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/suuh/senai/MeuProjeto/obj/Debug/net10.0/MeuProjeto.AssemblyInfoInputs.cache
+/home/suuh/senai/MeuProjeto/obj/Debug/net10.0/MeuProjeto.AssemblyInfo.cs
+/home/suuh/senai/MeuProjeto/obj/Debug/net10.0/MeuProjeto.csproj.CoreCompileInputs.cache
+/home/suuh/senai/MeuProjeto/obj/Debug/net10.0/MeuProjeto.sourcelink.json
+/home/suuh/senai/MeuProjeto/obj/Debug/net10.0/MeuProjeto.dll
+/home/suuh/senai/MeuProjeto/obj/Debug/net10.0/refint/MeuProjeto.dll
+/home/suuh/senai/MeuProjeto/obj/Debug/net10.0/MeuProjeto.pdb
+/home/suuh/senai/MeuProjeto/obj/Debug/net10.0/MeuProjeto.genruntimeconfig.cache
+/home/suuh/senai/MeuProjeto/obj/Debug/net10.0/ref/MeuProjeto.dll

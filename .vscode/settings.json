@@ -1,5 +1,6 @@
 {
     "csharp-dev-tools.solutionViewer.selectedWorkspaceSolutions": [
         "senai.slnx"
-    ]
+    ],
+    "csharp-dev-tools.debug.programArguments": ""
 }
